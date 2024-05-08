@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "radio433Lib")(type "KiCad")(uri "${KIPRJMOD}/radio433Lib.pretty")(options "")(descr ""))
+)
