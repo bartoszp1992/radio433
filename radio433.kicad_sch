@@ -3599,6 +3599,16 @@
 		)
 		(uuid "fbc28c17-4ffa-44a3-9c27-3084283c6af5")
 	)
+	(text "concept(finally placed)"
+		(exclude_from_sim no)
+		(at 45.974 145.796 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "017f928e-0c1c-442d-87b2-a8191999b060")
+	)
 	(label "ANT"
 		(at 205.74 60.96 0)
 		(fields_autoplaced yes)
@@ -5888,7 +5898,7 @@
 				)
 			)
 		)
-		(property "Value" "13M52313"
+		(property "Value" "13M52313(13M56)"
 			(at 186.69 53.594 90)
 			(effects
 				(font
@@ -5962,8 +5972,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "50k"
-			(at 195.58 73.914 0)
+		(property "Value" "50k(10k)"
+			(at 192.024 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6945,8 +6955,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100p"
-			(at 83.82 120.65 0)
+		(property "Value" "100p(100n)"
+			(at 76.454 120.904 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7346,8 +7356,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
-			(at 52.07 142.24 0)
+		(property "Value" "100k(22k)"
+			(at 46.99 142.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
